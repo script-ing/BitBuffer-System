@@ -3,3 +3,5 @@ __pycache__/
 *.pyo
 run_daily.log
 .DS_Store
+git_green.py
+run_daily.bat
