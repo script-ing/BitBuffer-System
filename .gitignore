@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.pyo
+run_daily.log
+.DS_Store
